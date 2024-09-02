@@ -1,8 +1,9 @@
 
 ### Penjelasan Elemen:
-- **`whoami`:** AdiyZd
-- **`ls skills`:** /sdcard.
-- **`cat /interests.txt`:** i'don't know!.
-- **`sudo apt-get install learning`:** wrong! .
-- **`contact`:** adiyzdbusinnes@gmail.com.
+- **`AdiyZd`:**
+- **`/sdcard/remove/`:**
+- **`i don't know!`:**
+- **`apt update -y`:**
+- **`apt upgerade -y`:**
+- **`contact`: adiyzdbusinnes@gmail.com**
 - **`shutdown -h now`:**
