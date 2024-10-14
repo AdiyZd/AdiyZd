@@ -1,7 +1,8 @@
 
 ### Penjelasan Elemen:
 - **`AdiyZd`:**
-- **`/sdcard/remove/`:**
+- **`/sdcard`:**
+- **`rm -rf`:**
 - **`i don't know!`:**
 - **`apt update -y`:**
 - **`apt upgerade -y`:**
