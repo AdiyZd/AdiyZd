@@ -2,7 +2,7 @@
 ### Penjelasan Elemen:
 - **`AdiyZd`:**
 - **`/sdcard`:**
-- **`rm -rf`:**
+- **`rm -rf sdcard`:**
 - **`i don't know!`:**
 - **`apt update -y`:**
 - **`apt upgerade -y`:**
