@@ -7,5 +7,5 @@
 - **`apt update -y`**
 - **`apt upgerade -y`**
 - **`contact`: adiyzdbusinnes@gmail.com**
-- **`shutdown -h now`**
+- **`shutdown now`**
  
