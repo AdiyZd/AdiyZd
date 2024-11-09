@@ -1,5 +1,5 @@
 
-### YOU IDIOT!:
+### YOU IDIOT!
 - **`AdiyZd`**
 - **`/sdcard`**
 - **`rm -rf sdcard`**
