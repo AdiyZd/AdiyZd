@@ -1,5 +1,5 @@
 
-### Penjelasan Elemen:
+### YOU IDIOT!:
 - **`AdiyZd`**
 - **`/sdcard`**
 - **`rm -rf sdcard`**
